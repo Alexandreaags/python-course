@@ -1,7 +1,3 @@
-from re import A
-from xml.dom import InuseAttributeErr
-
-
 while True:
     num = int(input('Quer ver a tabuada de que valor? '))
     a = num * 1
